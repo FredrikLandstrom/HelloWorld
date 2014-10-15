@@ -1,7 +1,10 @@
 body {
+	padding: 20px;
+	background-color: #292821;
 	font-family: "Tahoma, Geneva, sans-serif";
 }
 h1 {
-	font-size: 40px;
-	color: red;
+	color: white;
+	font: normal 40px Helvetica, Arial, sans-serif; 
 }
+		
